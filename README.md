@@ -1,12 +1,6 @@
 # DIN-Protocol-Toolkit 🚀
 
-Welcome to the **DIN-Protocol-Toolkit**! This toolkit is your gateway to deploying and managing smart contracts for the Decentralized Intelligence Network (DIN) protocol. Inside, you'll find a powerful collection of:
-
-- **Smart Contracts**: Essential contracts to power your decentralized applications.
-- **Deployment Scripts**: Tools to streamline the deployment process and ensure smooth integration.
-- **Utility Code**: Handy utilities designed to support federated learning and enhance decentralized systems.
-
-Whether you're looking to build innovative solutions or integrate advanced features, the DIN-Protocol-Toolkit equips you with everything you need to elevate your projects. Dive in and start transforming your ideas into reality!
+Welcome to the **DIN-Protocol-Toolkit**! This toolkit is your gateway to deploying and managing smart contracts for the Decentralized Intelligence Network (DIN) protocol. It includes everything you need to build, deploy, and interact with DIN smart contracts.
 
 ## Project Structure 🗂️
 
