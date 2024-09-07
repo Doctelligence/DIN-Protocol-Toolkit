@@ -45,14 +45,14 @@ Install the dependencies:
     ```bash
   npm install
 
-## Deployment
+## Deployment 🚀
 
 To deploy the smart contracts, run the deployment script with Hardhat:
     ```bash
   npx hardhat run script/deploy_din_protocol.js --network <network_name>
   Replace <network_name> with the name of the network you are deploying to (e.g., localhost, ropsten, mainnet, etc.).
 
-## Usage
+## Usage ⚙️
 Interacting with Contracts: Use the provided Python scripts in the src/ directory to interact with deployed contracts and perform federated learning operations.
 Updating Contracts: Modify the Solidity files in the contracts/ directory to update or add new functionality. Be sure to redeploy the contracts after making changes.
 
