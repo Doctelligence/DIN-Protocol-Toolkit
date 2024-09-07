@@ -57,6 +57,7 @@ Interacting with Contracts: Use the provided Python scripts in the src/ director
 Updating Contracts: Modify the Solidity files in the contracts/ directory to update or add new functionality. Be sure to redeploy the contracts after making changes.
 
 ## Contributing
+
 We welcome contributions to the DIN-Protocol-Toolkit. To contribute:
 
 1. Fork the repository.
@@ -64,7 +65,7 @@ We welcome contributions to the DIN-Protocol-Toolkit. To contribute:
 3. Make your changes and commit them.
 4. Push your branch and create a pull request.
 
-Please follow the project's coding standards and guidelines.
+Please follow the project's coding standards and guidelines. For more details on proposing changes to the DIN protocol, refer to our [DIN Protocol Proposals (DPP)](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
